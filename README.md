@@ -1,6 +1,6 @@
 # 🩺 Arabic Medical Articles Scraper
 
-A Python-based web scraping tool designed to collect and clean Arabic medical articles from [dailymedicalinfo.com](https://dailymedicalinfo.com). It extracts high-quality content across 30+ medical categories, stores it in both JSON and CSV formats, and prepares it for Arabic NLP applications.
+A Python-based web scraping tool designed to collect and clean Arabic medical articles from [dailymedicalinfo.com](https://dailymedicalinfo.com). It extracts high-quality content across +600 medical categories, stores it in both JSON and CSV formats, and prepares it for Arabic NLP applications.
 
 ## 📌 Features
 
