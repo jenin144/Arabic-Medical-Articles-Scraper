@@ -36,7 +36,6 @@ A Python-based web scraping tool designed to collect and clean Arabic medical ar
 
 ---
 
-🛠️ Requirements
 Install all required libraries using: pip install requests beautifulsoup4 pandas
 
 ▶️ Running the Scraper: python get_links.py
