@@ -4,7 +4,7 @@ A Python-based web scraping tool designed to collect and clean Arabic medical ar
 
 ## 📌 Features
 
-- Scrapes **30+ medical categories** automatically
+- Scrapes **600 medical categories** automatically
 - Cleans content from noise like:
   - Navigation menus
   - Promotional text
